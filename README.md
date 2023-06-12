@@ -1,9 +1,9 @@
 <div>
   <h1>Hello! I'm Diary</h1>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=diary-stack&label=Profile%20views&color=blueviolet&style=flat" alt="diary-stack" /> </p>
 </div>
 
 <div>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=diary-stack&label=Profile%20views&color=blueviolet&style=flat" alt="diary-stack" /> </p>
   <h3> 🚀 &nbsp;My Main Skills And The Tools I Use : </h3>
   <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
@@ -15,6 +15,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="30" height="30"/> 
   </p>
+</div>
+<div align="right">
+  <img src="https://media.giphy.com/media/XnDIgvwZTqj898f8iW/giphy.gif"/>
 </div>
 
 <div>
