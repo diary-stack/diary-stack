@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Hello!" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=#909090&height=100&section=header&text=Hello!" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diary-stack&label=Profile%20views&color=blueviolet&style=flat" alt="diary-stack" /> </p>
@@ -19,9 +19,7 @@
 </div>
 
 <div>
-  <h3>
-  Interested!? Contact Me!💬
-  </h3>
+  <h3>💬 Interested!? Contact Me!</h3>
   <p>
     <a href="#">
       <img height="30" src="https://socialize-md.vercel.app/api/badge/mail"/>
