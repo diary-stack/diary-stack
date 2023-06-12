@@ -1,8 +1,7 @@
 <div>
-  <h1>Hello!</h1>
+  <h1>Hello! I'm Diary</h1>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=diary-stack&label=Profile%20views&color=blueviolet&style=flat" alt="diary-stack" /> </p>
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diary-stack&label=Profile%20views&color=blueviolet&style=flat" alt="diary-stack" /> </p>
 
 <div>
   <h3> 🚀 &nbsp;My Main Skills And The Tools I Use : </h3>
@@ -36,6 +35,9 @@
 |  |  |
 | ----------- | ----------- |
 | **Github Stats** | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diary-stack&show_icons=true&locale=en" alt="diary-stack" /></p> |
+|  |  |
+
+
 
 <!-- <p align="center">
   <span><a href="https://socialize-md.vercel.app/api/badge/discord"><img src="https://socialize-md.vercel.app/api/badge/discord" alt="discord" /></a></span>
