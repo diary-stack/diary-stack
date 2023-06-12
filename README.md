@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Hello!" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diary-stack&label=Profile%20views&color=0e75b6&style=flat" alt="diary-stack" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diary-stack&label=Profile%20views&color=blueviolet&style=flat" alt="diary-stack" /> </p>
 
 <div>
   <h2> 🚀 &nbsp;My Main Skills And The Tools I Use : </h2>
