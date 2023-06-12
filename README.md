@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 **bold text**
 
 <p align="center"> 
-  ⚡ Fun fact: ..
+  <img src=" https://capsule-render.vercel.app/api?text=Salut tout le monde !🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/> 
 </p>
