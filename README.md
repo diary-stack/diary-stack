@@ -2,8 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Hello!" />
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diary-stack&label=Profile%20views&color=0e75b6&style=flat" alt="diary-stack" /> </p>
+
 <div>
-  <h1> 🚀 &nbsp;My Main Skills And The Tools I Use : </h1>
+  <h2> 🚀 &nbsp;My Main Skills And The Tools I Use : </h2>
   <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
@@ -17,9 +19,9 @@
 </div>
 
 <div>
-  <h1>
+  <h2>
   Interested!? Contact Me!💬
-  </h1>
+  </h2>
   <p>
     <a href="#">
       <img height="45" src="https://socialize-md.vercel.app/api/badge/mail"/>
