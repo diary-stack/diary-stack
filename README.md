@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=#909090&height=100&section=header&text=Hello!" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=_hexcode&height=100&section=header&text=Hello!" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diary-stack&label=Profile%20views&color=blueviolet&style=flat" alt="diary-stack" /> </p>
