@@ -3,24 +3,22 @@
 </p>
 
 <h1 align="center">
-  Let's Connect and have a Chat!💬
+  Interested!? Contact me!💬
 </h1>
 
 <p align="center">
 <a href="https://linkedin.com/in/diary-sarobidy-nomenjanahary-b67a4b230">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-<a href="https://thepiyushmalhotra.medium.com/">
-  ![Logo Facebook](https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png)
-
-</a>
 <a href="https://twitter.com/Ipiyushmalhotra">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
 <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  ![download](https://github.com/diary-stack/diary-stack/assets/98937269/a6fc2258-ff01-45c8-a68b-83fe1be75585)
 </a>
 </p>
+
+
 
 
 <!--
