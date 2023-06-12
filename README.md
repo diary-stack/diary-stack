@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> 
-  <img src=" https://capsule-render.vercel.app/api?text=Salut tout le monde !🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/> 
-</h1>
+**bold text**
 <p align="center"> 
   ⚡ Fun fact: ..
 </p>
