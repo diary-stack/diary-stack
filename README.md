@@ -13,9 +13,8 @@
 <a href="https://twitter.com/Ipiyushmalhotra">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  ![download](https://github.com/diary-stack/diary-stack/assets/98937269/a6fc2258-ff01-45c8-a68b-83fe1be75585)
-</a>
+
+
 </p>
 
 
