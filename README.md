@@ -37,9 +37,9 @@
 
 || ##hello |
 
-|  |  |
+
 | ----------- | ----------- |
-| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diary-stack&show_icons=true&locale=en" alt="diary-stack" /></p> | Title |
+| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diary-stack&show_icons=true&locale=en" alt="diary-stack" /></p> | **Github Stats** |
 
 <!-- <p align="center">
   <span><a href="https://socialize-md.vercel.app/api/badge/discord"><img src="https://socialize-md.vercel.app/api/badge/discord" alt="discord" /></a></span>
