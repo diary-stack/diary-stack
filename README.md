@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Interested!? Contact me!💬
+  Interested!? **Contact me**!💬
 </h1>
 
 <p align="center">
@@ -12,9 +12,6 @@
 </a>
 <a href="https://twitter.com/Ipiyushmalhotra">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
-<a href="https://twitter.com/Ipiyushmalhotra">
-  <img height="50" src="https://www.pngkit.com/png/detail/27-274931_free-png-facebook-logo-png-scratch-png-images.png"/>
 </a>
 </p>
 
