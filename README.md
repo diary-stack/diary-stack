@@ -8,10 +8,10 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/diary-sarobidy-nomenjanahary-b67a4b230">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  <img height="50" src="https://camo.githubusercontent.com/b92f4541c547ad9e2ecfe435094877e3238a171ba0a742f8c21cd2d16d616b51/68747470733a2f2f646f7472696e682e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f31322f6c6f676f2d646f7472696e682e706e67"/>
 </a>
-<a href="https://twitter.com/Ipiyushmalhotra">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+<a href="https://facebook.com/Ipiyushmalhotra">
+  <img height="50" src="https://camo.githubusercontent.com/6a20b3efdf3e531b27c3830664ba2e88e30911c16ec4f4feb7b865a7411a2a06/68747470733a2f2f646f7472696e682e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f31322f66616365626f6f6b2d646f7472696e682e706e67"/>
 </a>
 </p>
 
@@ -27,22 +27,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/> 
 </p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
-<!--
-**diary-stack/diary-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
