@@ -2,6 +2,7 @@
   <h1>Hello! I'm Diary</h1>
 </div>
 
+<div align="left">
 <div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=diary-stack&label=Profile%20views&color=blueviolet&style=flat" alt="diary-stack" /> </p>
   <h3> 🚀 &nbsp;My Main Skills And The Tools I Use : </h3>
@@ -16,10 +17,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="30" height="30"/> 
   </p>
 </div>
-<div align="right">
-  <img src="https://media.giphy.com/media/XnDIgvwZTqj898f8iW/giphy.gif"/>
-</div>
-
 <div>
   <h3>💬 Interested!? Contact Me!</h3>
   <p>
@@ -33,6 +30,11 @@
       <img height="30" src="https://socialize-md.vercel.app/api/badge/facebook" alt="facebook"/>
     </a>
    </p>
+</div>
+</div>
+
+<div align="right">
+  <img src="https://media.giphy.com/media/XnDIgvwZTqj898f8iW/giphy.gif"/>
 </div>
 
 |  |  |
