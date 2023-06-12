@@ -14,11 +14,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/> 
 </p>
 
-<h1 align="center">
+<h2>
   Interested!? Contact Me!💬
-</h1>
+</h2>
 
-<p align="center">
+<p>
 <a href="https://linkedin.com/in/diary-sarobidy-nomenjanahary-b67a4b230">
   <img height="100" src="https://camo.githubusercontent.com/b92f4541c547ad9e2ecfe435094877e3238a171ba0a742f8c21cd2d16d616b51/68747470733a2f2f646f7472696e682e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f31322f6c6f676f2d646f7472696e682e706e67"/>
 </a>
