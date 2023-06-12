@@ -22,10 +22,10 @@
   </h1>
   <p>
     <a href="https://linkedin.com/in/diary-sarobidy-nomenjanahary-b67a4b230">
-      <img height="70" src="https:https://socialize-md.vercel.app/api/badge/linkedin"/>
+      <img height="45" src="https://socialize-md.vercel.app/api/badge/linkedin"/>
     </a>
     <a href="https://facebook.com/profile.php?id=100040785751184">
-      <img height="70" src="https://socialize-md.vercel.app/api/badge/facebook" alt="facebook"/>
+      <img height="45" src="https://socialize-md.vercel.app/api/badge/facebook" alt="facebook"/>
     </a>
    </p>
 </div>
