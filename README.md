@@ -2,6 +2,10 @@
   <h1>Hello! I'm Diary</h1>
 </div>
 
+<div align="right">
+  <img align="right" alt="banner" width=50% src="https://media.giphy.com/media/XnDIgvwZTqj898f8iW/giphy.gif">
+</div>
+
 <div align="left">
 <div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=diary-stack&label=Profile%20views&color=blueviolet&style=flat" alt="diary-stack" /> </p>
@@ -31,10 +35,6 @@
     </a>
    </p>
 </div>
-</div>
-
-<div align="right">
-  <img align="right" alt="banner" width=50% src="https://media.giphy.com/media/XnDIgvwZTqj898f8iW/giphy.gif">
 </div>
 
 |  |  |
