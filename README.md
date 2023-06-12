@@ -1,10 +1,5 @@
-<div>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello!&fontSize=90&fontWeight700" />
-</div>
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello!&fontAlign=70&rotate=13&fontAlignY=25&desc=Welcome%20to%20my%20github%20profile%20rotated.&descAlign=70.&descAlignY=44)
 
-## Slice <a id="slice">
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=SLICE&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=70.&descAlignY=44)
-  
 <!--
 **diary-stack/diary-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
