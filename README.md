@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diary-stack&label=Profile%20views&color=blueviolet&style=flat" alt="diary-stack" /> </p>
 
 <div>
-  <h2> 🚀 &nbsp;My Main Skills And The Tools I Use : </h2>
+  <h3> 🚀 &nbsp;My Main Skills And The Tools I Use : </h3>
   <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
@@ -19,15 +19,15 @@
 </div>
 
 <div>
-  <h2>
+  <h3>
   Interested!? Contact Me!💬
-  </h2>
+  </h3>
   <p>
     <a href="#">
-      <img height="45" src="https://socialize-md.vercel.app/api/badge/mail"/>
+      <img height="30" src="https://socialize-md.vercel.app/api/badge/mail"/>
     </a>
     <a href="https://linkedin.com/in/diary-sarobidy-nomenjanahary-b67a4b230">
-      <img height="45" src="https://socialize-md.vercel.app/api/badge/linkedin"/>
+      <img height="30" src="https://socialize-md.vercel.app/api/badge/linkedin"/>
     </a>
     <a href="https://facebook.com/profile.php?id=100040785751184">
       <img height="45" src="https://socialize-md.vercel.app/api/badge/facebook" alt="facebook"/>
