@@ -3,10 +3,10 @@
 </div>
 
 <div align="right">
-  <img align="right" alt="banner" width=50% src="https://media.giphy.com/media/XnDIgvwZTqj898f8iW/giphy.gif">
+  <img align="right" alt="banner" height=300 width=300 src="https://media.giphy.com/media/XnDIgvwZTqj898f8iW/giphy.gif">
 </div>
 
-<div align="left width=50% ">
+<div align="left">
 <div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=diary-stack&label=Profile%20views&color=blueviolet&style=flat" alt="diary-stack" /> </p>
   <h3> 🚀 &nbsp;My Main Skills And The Tools I Use : </h3>
