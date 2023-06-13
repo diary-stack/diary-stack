@@ -42,8 +42,8 @@
 
 |  |  |
 | ----------- | ----------- |
-| **Github Stats** | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diary-stack&show_icons=true&locale=en" alt="diary-stack" /></p> |
-| **Most Used Languages** | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diary-stack&size_weight=0.5&count_weight=0.5) |
+| **Stats** | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diary-stack&show_icons=true&locale=en" alt="diary-stack" /></p> |
+| **Languages** | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diary-stack&size_weight=1&count_weight=1) |
 |  |  |
 
 **END! thanks for visiting**
