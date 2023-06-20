@@ -42,7 +42,7 @@
 
 |  |  |
 | ----------- | ----------- |
-| **Stats** | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koulienathalie&show_icons=true&locale=en" alt="diary-Stack" /></p> |
+| **Stats** | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diary-stack&show_icons=true&locale=en" alt="diary-Stack" /></p> |
 | **Languages** | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diary-stack&size_weight=0.5&count_weight=0.5) |
 |  |  |
 
